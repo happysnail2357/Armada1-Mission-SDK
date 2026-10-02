@@ -34,7 +34,11 @@ namespace BridgeDisplay
 {
     enum BridgeType
     {
-        Federation_Enterprise = 1,
+        Avenger,
+        Enterprise,
+        Klingon,
+        Romulan,
+        Borg,
     };
 }
 
